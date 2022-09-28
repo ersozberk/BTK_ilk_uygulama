@@ -25,7 +25,7 @@ class ViewController: UIViewController {
                 
                 sonuc = ilksayi + ikincisayi
                 
-                sonucLabel.text = String(sonuc)
+                sonucLabel.text = String(sonuc + " berk")
             }
         }
         
